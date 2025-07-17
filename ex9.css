@@ -1,0 +1,26 @@
+.catOt{
+    display: flex;
+    flex-direction: row;
+    
+}
+.imgf{
+    width: auto;
+    height: 400px;
+    padding:80px ;
+    margin:auto;
+}
+.imgs{
+    width: auto;
+    height: 200px;
+    padding: 50px;
+    margin: auto;
+
+}
+.imgt{
+    width: auto;
+    height: 100px;
+    padding:50px;
+    margin: auto;
+
+
+}
